@@ -14,4 +14,4 @@ thisEmitter.on('end', function() {
     console.log('ending');
 });
 
-console.log("-----");
+console.log("---------");
